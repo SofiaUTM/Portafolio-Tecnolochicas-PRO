@@ -11,4 +11,4 @@ JS
 
 # Contacto
 
-Si estás interesado en colaborar con proyectos, oportunidades laborales e iniciativas, contáctame
+Si estás interesado en colaborar con proyectos, oportunidades laborales e iniciativas, contáctame.
